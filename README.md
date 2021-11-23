@@ -1,5 +1,5 @@
 # Blog de Frank
-*Este es un blog dedicado a la **PROGRAMACION**, en donde encontraras blogs correspondientes a las nuevas tecnologias para los desarrolladores, como por ejemplo:
+*Este es un blog dedicado a la **PROGRAMACION** y al avance en las nuevas **TECNOLOGIAS**, en donde encontraras blogs correspondientes a las nuevas tecnologias para los desarrolladores, como por ejemplo:
 - Java
 - PHP
 - Python
