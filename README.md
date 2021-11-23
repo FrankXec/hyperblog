@@ -7,4 +7,6 @@
 - HTML
 - etc
 
+Siempre informando de las nuevas novadeades tecnologicas, actualmente trabajando con las Inteligencias Artificiales y las IOT.
+
 ###### Puedes publicar tus propios post, siempre y cuando sean relacionados a la *programacion y a las nuevas tecnologias.
