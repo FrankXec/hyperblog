@@ -3,6 +3,8 @@
 - Java
 - PHP
 - Python
+- Larabel
+- HTML
 - etc
 
 ###### Puedes publicar tus propios post, siempre y cuando sean relacionados a la *programacion y a las nuevas tecnologias.
