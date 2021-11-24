@@ -42,5 +42,7 @@ body
 #pie
 {
     text-align: center;
-    color: green;
+    color: white;
+    background: #33A;
+    font-weight: bold;
 }
